@@ -2,6 +2,6 @@
 
 ## Contents:
 
-- 
--
-- Least squares problems and the QR decomposition
+- Cancellation
+- Overflow, underflow and condition numbers
+- Stability of algorithms
