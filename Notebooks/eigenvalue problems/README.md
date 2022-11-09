@@ -2,4 +2,4 @@
 
 ## Contents:
 
-- [The power method and its variants]()
+- [The power method and some extensions](https://nbviewer.org/github/um-perez-alvaro/Numerical-Analysis/blob/main/Notebooks/eigenvalue%20problems/Eigenvalue%20problems.ipynb)
